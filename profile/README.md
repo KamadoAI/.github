@@ -1,12 +1,19 @@
-## welcome to Kamado AI
+## Kamado AI
 
-<!--
+**Kamado AI is AI marketing agency powered by AI Agents.**
 
-**Here are some ideas to get you started:**
+### Vision
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We're leading hte new age of social experiences powred by AI.
+
+### Our Products
+
+*Coming up soon!*
+
+### Social/community
+🐦 Follow our official [Twitter account]()
+
+➤ Join out [Telegram group]() 
+
+![Create Something Amazing](https://github.com/user-attachments/assets/222537e9-b169-4307-9e07-946b93398a24)
+
